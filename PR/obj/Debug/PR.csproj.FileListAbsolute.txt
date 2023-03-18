@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\PR\PR\bin\Debug\PR.exe.config
+C:\Users\Александр\source\repos\PR\PR\bin\Debug\PR.exe
+C:\Users\Александр\source\repos\PR\PR\bin\Debug\PR.pdb
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\App.g.cs
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR_MarkupCompile.cache
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR_MarkupCompile.lref
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\MainWindow.baml
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.g.resources
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.Properties.Resources.resources
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.exe
+C:\Users\Александр\source\repos\PR\PR\obj\Debug\PR.pdb
