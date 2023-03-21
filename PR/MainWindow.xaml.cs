@@ -57,5 +57,18 @@ namespace PR
             Product.DeleteQuery(Convert.ToInt32(id));
             CarTable.ItemsSource = Product.GetData();
         }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            object id = (ColorTable.SelectedItem as DataRowView).Row[0];
+            Office.UpdateQuery(TextBXL.Text, Convert.ToInt32(id));
+            ColorTable.ItemsSource = Office.GetData();
+        }
+
+        private void TextBXL_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            object text = (ColorTable.SelectedItem as DataRowView).Row[1];
+            TextBXL.Text = Convert.ToString(text);
+        }
     }
 }
